@@ -1,33 +1,33 @@
 
 
-👋 Hi, I'm Aniket Bamotra!
+### 👋 Hi, I'm Aniket Bamotra!
 
-🚀 UX Engineer passionate about creating visually stunning websites with exceptional user experiences.
+### 🚀 UX Engineer passionate about creating visually stunning websites with exceptional user experiences.
 
-🛠️ Tools & Technologies:
+### 🛠️ Tools & Technologies:
 
-React.js
-Tailwind
-Figma
-GSAP
-AWS (Unity & Unreal deployment)
-WordPress
-Webflow
-Framer
+* React.js
+* Tailwind
+* Figma
+* GSAP
+* AWS (Unity & Unreal deployment)
+* WordPress
+* Webflow
+* Framer
 
-💼 Experience:
+### 💼 Experience:
 
-Internships:
-frog.co (International Design Studio)
+#### Internships:
+* frog.co (International Design Studio)
 
-Freelancer:
-Keploy (Tech Start-up)
-Maushme (Luxury E-commerce)
-First Read (Book Publisher)
+#### Freelancer:
+* Keploy (Tech Start-up)
+* Maushme (Luxury E-commerce)
+* First Read (Book Publisher)
 
 
-🌐 Portfolio: aneeek.com
+### 🌐 Portfolio: aneeek.com
 
-📫 Contact: aniketbamotra@gmail.com
+### 📫 Contact: aniketbamotra@gmail.com
 
 Let's build something amazing together! ✨

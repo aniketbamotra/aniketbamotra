@@ -18,10 +18,10 @@
 ### 💼 Experience:
 
 #### Internships:
-* frog.co (International Design Studio)
+* frog.co (Design Studio)
 
 #### Freelancer:
-* Keploy (Tech Start-up)
+* Keploy (AI Product Company)
 * Maushme (Luxury E-commerce)
 * First Read (Book Publisher)
 
